@@ -1,5 +1,9 @@
 # LudoLand 🎲
 
+<img align='right' src='https://avatars3.githubusercontent.com/kiruadev0' width='200"'>
+
+![Website](https://img.shields.io/badge/website-on-brightgreen)
+
 Welcome to **LudoLand**, the online platform dedicated to board games!  
 Our goal: to provide a friendly space where players of all ages can meet, discover, and play board games online.
 
@@ -8,7 +12,7 @@ Our goal: to provide a friendly space where players of all ages can meet, discov
 LudoLand is a collaborative project between:
 
 - **Xaryn** – web development, hosting, and infrastructure expert.  
-- **[Your Name / Username]** – cybersecurity & development student.
+- **Kirua** – cybersecurity & development student.
 
 We combine our skills to create a fast, enjoyable, and secure platform for all board game enthusiasts.
 
@@ -29,5 +33,5 @@ We combine our skills to create a fast, enjoyable, and secure platform for all b
 
 ## 💻 Contact
 
-Go check out the [Xaryn](https://xaryn.xyz) website to support them. Thanks to them for collaborating with me on this project. You can also contact me by [email](https://xaryn.xyz) or on my [GitHub](https:/). 
+Go check out the [Xaryn](https://xaryn.xyz) website to support them. Thanks to them for collaborating with me on this project. You can also contact me by [email](mailto:contactbachiir@gmail.com) or on my [GitHub](https://github.com/kiruadev0). 
 
