@@ -1,6 +1,6 @@
 # LudoLand 🎲
 
-<img align='right' src='https://avatars3.githubusercontent.com/kiruadev0' width='200"'>
+<img align='right' src='https://github.com/kiruadev0/LudoLand/blob/main/images/logofull.png?raw=true' width='200"'>
 
 ![Website](https://img.shields.io/badge/website-on-brightgreen)
 
