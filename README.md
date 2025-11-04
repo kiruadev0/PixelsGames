@@ -24,13 +24,6 @@ We combine our skills to create a fast, enjoyable, and secure platform for all b
 - User accounts and score management system  
 - Integrated chat to interact with other players  
 
-## 🛠️ Technologies
-
-- Frontend: HTML, CSS, JavaScript (React / Vue depending on choice)  
-- Backend: Node.js / Python / PHP (depending on preference)  
-- Database: MySQL / MongoDB  
-- Hosting: managed by Xaryn.xyz  
-
 ## 💻 Contact
 
 Go check out the [Xaryn](https://xaryn.xyz) website to support them. Thanks to them for collaborating with me on this project. You can also contact me by [email](mailto:contactbachiir@gmail.com) or on my [GitHub](https://github.com/kiruadev0). 
