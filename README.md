@@ -1,15 +1,15 @@
-# LudoLand 🎲
+# PixelsGames 🎲
 
-<img align='right' src='https://github.com/kiruadev0/LudoLand/blob/main/images/logofull.png?raw=true' width='200"'>
+<img align='right' src='https://github.com/kiruadev0/LudoLand/blob/main/images/logo.png?raw=true' width='200"'>
 
 ![Website](https://img.shields.io/badge/website-off-red)
 
-Welcome to **LudoLand**, the online platform dedicated to board games!  
+Welcome to **PixelsGames**, the online platform dedicated to board games!  
 Our goal: to provide a friendly space where players of all ages can meet, discover, and play board games online.
 
 ## 🚀 About the Project
 
-LudoLand is a collaborative project between:
+[PixelsGames](https://pixelsgames.xyz) is a collaborative project between:
 
 - **Xaryn** – web development, hosting, and infrastructure expert.  
 - **Kirua** – cybersecurity & development student.
