@@ -21,7 +21,7 @@ We combine our skills to create a fast, enjoyable, and secure platform for all b
 - Play various board games online  
 - Create and join games with friends  
 - Simple, intuitive, and responsive interface  
-- User accounts and score management system  
+- Play solo or against AI  
 - Integrated chat to interact with other players  
 
 ## 💻 Contact
